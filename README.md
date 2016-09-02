@@ -1,2 +1,3 @@
 # prueba2
-nuevo project
+nuevo project para el desarrollo de una nueva app
+
